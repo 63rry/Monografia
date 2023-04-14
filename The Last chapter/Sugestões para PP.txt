@@ -1,0 +1,41 @@
+-Capa
+*emblema
+*tema
+*canditado
+*supervisor
+*data
+
+-Estrutura Da Apresentacao
+*introduçao (cont1,2,3)
+*Problematizacao
+*Objectivos
++Gerais
++Especificos
+
+-Justificativa
+-Revisao da literatura
+-Metodologia
+-Modelagem
+-Apresentacao, analise e discussao de resultados
+-Conclusao
+-referencia
+-recomendacao-sugestao
+obrigadoooooo
+
+
+justificatica
+Ambito social
+academico
+pessoal
+
+metodologia
+<<formas>>
+Quanto a natureza
+abordagem
+procedimento de dados: bibliografica
+objecto:
+tecnica de recolha de dados
+populacao e amostra
+
+AADR
+fazer a mensao do objecto de estudo
